@@ -10,7 +10,7 @@ export default function FullStackImg(){
          renderer: 'svg',
          loop: true,
          autoplay: true,
-         animationData: require('./fullanim.json')
+         animationData: require('./web.json')
        })
      }, [])
      return (
