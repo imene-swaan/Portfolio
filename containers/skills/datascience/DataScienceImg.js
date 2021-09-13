@@ -12,7 +12,7 @@ export default function DataScienceImg(){
       renderer: 'svg',
       loop: true,
       autoplay: true,
-      animationData: require('./data2.json')
+      animationData: require('./data.json')
     })
   }, [])
   return (
