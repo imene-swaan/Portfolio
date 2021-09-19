@@ -636,7 +636,7 @@ const certifications = {
       subtitle: "KPMG",
       logo_path: "kpmg-01.png",
       certificate_link:
-        "",
+        "https://github.com/imene-swaan/KPMG-virtual-internship",
       alt_name: "KPMG",
       color_code: "#000000",
     },
@@ -645,7 +645,7 @@ const certifications = {
       subtitle: "ANZ",
       logo_path: "anz-01.png",
       certificate_link:
-        "",
+        "https://www.linkedin.com/feed/update/urn:li:activity:6710763842772832256/",
       alt_name: "ANZ",
       color_code: "#000000",
     },
