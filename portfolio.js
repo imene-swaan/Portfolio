@@ -378,7 +378,7 @@ const resumeleft = {
         ],
       },
       {
-        title: "Data Scientist",
+        title: "Business Data Analyst Intern",
         image: "nactus.png",
         subtitle: "Nactus India Services Private Limited",
         date: "July 2020 - June 2021",
