@@ -564,16 +564,16 @@ const certifications = {
     {
       title: "Tableau",
       subtitle: "365 Data Science",
-      logo_path: "tableau-01.png",
+      logo_path: "365-01.png",
       certificate_link:
-        "",
+        "https://learn.365datascience.com/c/7ece3bf7de",
       alt_name: "365 Data Science",
       color_code: "#000000",
     },
     {
       title: "Python for Everybody Specialization",
       subtitle: "University of Michigan",
-      logo_path: "python-01.png",
+      logo_path: "coursera-01.png",
       certificate_link: "https://coursera.org/share/181def8c0d5dad547b430ca534b05166",
       alt_name: "University of Michigan",
       color_code: "#000000",
@@ -581,7 +581,7 @@ const certifications = {
     {
       title: "Machine Learning",
       subtitle: "Stanford University",
-      logo_path: "stanford-01.png",
+      logo_path: "coursera-01.png",
       certificate_link:
         "https://coursera.org/share/9f99a222f0103debd9fbd583271419ca",
       alt_name: "Stanford University",
@@ -608,7 +608,7 @@ const certifications = {
     {
       title: "Python 3",
       subtitle: "SoloLearn",
-      logo_path: "solo-01.png",
+      logo_path: "sololearn-01.png",
       certificate_link:
         "https://www.sololearn.com/Certificate/1073-16182357/jpg/",
       alt_name: "SoloLearn",
@@ -617,7 +617,7 @@ const certifications = {
     {
       title: "AI for Everyone",
       subtitle: "DeepLearning.ai",
-      logo_path: "deep-01.png",
+      logo_path: "coursera-01.png",
       certificate_link:
         "https://coursera.org/share/08d6eeb425a3c64fd5a0358a335e6194",
       alt_name: "DeepLearning.ai",
@@ -626,7 +626,7 @@ const certifications = {
     {
       title: "Crash Course on Python",
       subtitle: "Google",
-      logo_path: "google-01.png",
+      logo_path: "coursera-01.png",
       certificate_link:
         "https://coursera.org/share/8052c7e9b44c5b35d7cc9198e58b9010",
       alt_name: "Google",
@@ -644,7 +644,7 @@ const certifications = {
     {
       title: "Data Analytics Virtuel Internship",
       subtitle: "KPMG",
-      logo_path: "kpmg-01.png",
+      logo_path: "forage-012.png",
       certificate_link:
         "https://github.com/imene-swaan/KPMG-virtual-internship",
       alt_name: "KPMG",
@@ -653,7 +653,7 @@ const certifications = {
     {
       title: "DATA @ ANZ Program",
       subtitle: "ANZ",
-      logo_path: "anz-01.png",
+      logo_path: "forage-012.png",
       certificate_link:
         "https://www.linkedin.com/feed/update/urn:li:activity:6710763842772832256/",
       alt_name: "ANZ",
