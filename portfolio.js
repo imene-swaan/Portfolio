@@ -365,19 +365,16 @@ const resumeleft = {
     title: ["Experience"],
     data: [
       {
-        title: "Growth Developer",
+        title: "Research Intern",
         image: "bp.png",
-        subtitle: "Botpress",
-        date: "July 2021 - present",
+        subtitle: "Ecole Nationale Superieure de Statistique et d'Economie Appliquee",
+        date: "Mar 2021 - Jul 2021",
         content: [
-          "Used T5 Transformer Model to build a Question Answering Model which generates questions based on Keywords extracted (WordNet, Sense2Vec) from studyshot notes.",
-          "Built an MCQ Generation model using BERT",
-          "Developed a personalized Chatbot using Rasa (Botfront.io).",
-          "Created an Automatic Thumbnail Generator & Uploader for our youtube videos using Youtube v3 API",
-          "Worked on OpenAI's semantic search engine and it's various APIs",
-          "Created a Clean MaterialUI Design for prototyping and design fixing before production-ready of APP",
-          "Created FrontEnd components for StudyShot website",
-          "Worked on recommendation system for concept notes and questions based on student's behavior on our Flutter App(tracking)",
+          "Graduation thesis title: Predictive sentiment analysis of tweets using natural language processing techniques. Case Study: Arabic Twittersphere. Grade: 18/20",
+          
+          "Project: Research on sentiment analysis is used to classify tweets from the Twitter social media platform based on the Hate sentiment. Two techniques were used : Natural Language Processing and Machine Learning Classifiers",
+          "The goal is to Automatically Detect Hate Speech in the Tweets from the Arabic Twittersphere written in the Arabic language, in order to reduce the spread of Hate crimes in social media.",
+          
         ],
       },
       {
